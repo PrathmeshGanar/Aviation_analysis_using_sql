@@ -38,7 +38,7 @@ The raw dataset consisting of large CSV files was loaded into SQL Server using o
 - Query optimization using indexing improved performance by 40%+ on large tables. 
 
 ## 🖼 Dashboards
-Upload your Power BI/Tableau dashboard images inside the `/dashboard` folder.
+[dashboard](https://raw.githubusercontent.com/PrathmeshGanar/Aviation_analysis_using_sql/refs/heads/main/dashboard/Screenshot%202025-12-10%20012420.png)
 
 
 ## 📘 Result & Conclusion
